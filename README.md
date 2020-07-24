@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏼
 
 I am a Platform Engineer at Pluralsight. 
 I love to learn, collaborate, and help others.
@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+*NOTE: Top languages does not indicate my skill level, favorite language or something like that, it is a github metric of which languages i have the most code on github*
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gofightnguyen" alt="GoFightNguyen's top languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gofightnguyen&count_private=true&show_icons=true" alt="GoFightNguyen's github stats" />
