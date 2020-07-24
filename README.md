@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+example of spotify now playing: https://github.com/natemoo-re/natemoo-re
 -->
 
 
