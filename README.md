@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
+### Stats (provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 *NOTE: Top languages does not indicate my skill level, favorite language or something like that, it is a github metric of which languages i have the most code on github*
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gofightnguyen" alt="GoFightNguyen's top languages" />
