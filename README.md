@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 example of spotify now playing: https://github.com/natemoo-re/natemoo-re
 -->
 
+[![@gofightnguyen's Holopin board](https://holopin.io/api/user/board?user=gofightnguyen)](https://holopin.io/@gofightnguyen)
 
 ### Stats (provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 *NOTE: Top languages does not indicate my skill level, favorite language or something like that, it is a github metric of which languages i have the most code on github*
