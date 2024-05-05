@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 
-I am a Platform Engineer at Pluralsight. 
+I am a Senior Software Engineer at Pluralsight. 
 I love to learn, collaborate, and help others.
 You can find me in the mountains 🥾🚵⛷️.
 
