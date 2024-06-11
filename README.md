@@ -4,7 +4,7 @@ I am a Senior Software Engineer at Pluralsight.
 I love to learn, collaborate, and help others.
 You can find me in the mountains 🥾🚵⛷️.
 
-Before landing my dream job at Pluralsight, I experienced being a developer in many domains including finance, education, and health.
+Before landing my job at Pluralsight, I experienced being a developer in many domains including finance, education, and health.
 Although most of my professional experience is in .NET, I enjoy learning any tech.
 
 <!--
